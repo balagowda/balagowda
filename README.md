@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Balachandregowda P</h1>
 <h3 align="center">Passionate about Open-Source || Software development</h3>
 
-- 👨‍💻 All of my projects are available at [Profile](https://balagowda.github.io/profile)
+- 👨‍💻 All of my projects are available at [Profile](https://balagowda.github.io/portfolio/)
 
 - 💬 Ask me about **DataStructures, Java, React**
 
