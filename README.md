@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Balachandregowda P</h1>
 <h3 align="center">Passionate about Open-Source || Software development</h3>
 
-- 👨‍💻 All of my projects are available at [https://balagowda.github.io/host-myProfile](https://balagowda.github.io/host-myProfile)
+- 👨‍💻 All of my projects are available at [Profile](https://balagowda.github.io/profile)
 
 - 💬 Ask me about **DataStructures, Java, React**
 
-- 📫 How to reach me **balagowda9483@gmail.com**
+- 📫 How to reach me **balagowda9900@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
