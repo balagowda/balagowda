@@ -76,16 +76,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balagowda&theme=tokyonight" />
 </p>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=balagowda&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=balagowda&theme=tokyonight" width="49%"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=balagowda&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=balagowda&theme=tokyonight&utcOffset=5.5" width="49%"/>
-</p>
-
 
 ## 💭 Favorite Quote
 
