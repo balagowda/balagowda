@@ -70,24 +70,21 @@
   </a>
 </p>
 
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=balagowda&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balagowda&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
 ## 💭 Favorite Quote
 
 > **"First, solve the problem. Then, write the code."**  
 > — John Johnson
 
----
 
 ## 🤝 Connect With Me
 
@@ -101,7 +98,6 @@
 </a>
 </p>
 
----
 
 <p align="center">
 ⭐️ Thanks for visiting my profile! Have a great day! ⭐️
