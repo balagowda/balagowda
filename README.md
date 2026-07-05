@@ -20,7 +20,6 @@
 - 🧠 Solving **Data Structures & Algorithms** to improve problem-solving skills.
 - 🚀 Always learning and building projects that create real-world impact.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -74,9 +73,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=balagowda&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balagowda&theme=tokyonight" />
+</p>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balagowda&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=balagowda&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=balagowda&theme=tokyonight" width="49%"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=balagowda&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=balagowda&theme=tokyonight&utcOffset=5.5" width="49%"/>
 </p>
 
 
